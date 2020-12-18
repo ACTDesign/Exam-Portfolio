@@ -1,0 +1,39 @@
+body{
+background-color: #070707;
+padding: 20px;
+}
+    
+h1{
+    color: whitesmoke;
+    text-align: center;
+    text-shadow: gray;
+    font-size: larger;
+    font-weight: lighter;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+}
+ul{
+
+
+        list-style-type: none ;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        border: 1px solid #0e0d0d;
+        background-color: #070707;
+        position: fixed;
+        width: 100%;
+    }
+    li {
+        float: left;
+      }
+      
+      li a {
+        display: block;
+        color: rgb(252, 249, 249);
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+
+      }
+
